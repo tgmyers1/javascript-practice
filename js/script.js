@@ -17,7 +17,3 @@ console.log(interestRate);
 age++;
 
 console.log(age);
-
-age++;
-
-console.log(age);
