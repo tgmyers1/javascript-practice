@@ -17,7 +17,4 @@ console.log(interestRate);
 age++;
 
 console.log(age);
-
-let testStr = 'Supercalifragilisticexpialidocious';
-
-console.log('String is', testStr.length, 'characters long');
+console.log(age);
